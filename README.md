@@ -8,9 +8,9 @@ This website allows users to listen to the Quran Karim through a user-friendly a
 
 ## Website
 
-Visit our website: [Your Website](<your-website-url>)
+Visit our website: https://houssemeddinechaouch.github.io/Quran-Karim-Audio-Player/
 
-![Website Screenshot](<your-image-url>)
+![Website Screenshot](https://j.top4top.io/p_2888ix6sx1.png)
 
 ## Features
 
