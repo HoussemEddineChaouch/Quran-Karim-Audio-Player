@@ -16,13 +16,12 @@ Visit our website: https://houssemeddinechaouch.github.io/Quran-Karim-Audio-Play
 
 - Quranic audio player with intuitive controls.
 - API integration for dynamic Quranic verse retrieval.
-- [Optional: Any additional features of your website]
 
 ## API Resource
 
-To access the Quranic verses and integrate the audio player into your projects, you can use the following API:
+You can use the following API:
 
-- [Quran Karim API](<api-resource-url>)
+- [Quran Karim API](<https://mp3quran.net/ar/api>)
 
 Make sure to review the API documentation for details on how to make requests and handle responses.
 
@@ -30,13 +29,6 @@ Make sure to review the API documentation for details on how to make requests an
 
 The website is built using the following template:
 
-- [Your Chosen Template](<template-resource-url>)
+- [Your Chosen Template](<https://templatemo.com/tm-572-designer>)
 
-Feel free to explore the template documentation for customization options and usage instructions.
 
-## Getting Started
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
